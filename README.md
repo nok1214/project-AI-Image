@@ -28,6 +28,3 @@ A React-based application that allows users to customize shirts with various des
 - [ ] Integration with a payment gateway for purchasing customized shirts.
 - [ ] Enhanced AI image generation with more customization options.
 
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
